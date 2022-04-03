@@ -12,3 +12,7 @@ This leads to a multi-layered approach as the levels get more complex as players
 All in all - I hope you will enjoy this game.
 
 This repository should compile to android but whether it will be successful on newer OS version is hard to say. It was tested and mainly developed on Oreo and Nougat.
+
+![Logicolour on Android](https://image.winudf.com/v2/image1/cHJvY2Vzc2luZy50ZXN0LmxvZ2ljb2xvcl9hbmRyb2lkX3NjcmVlbl8wXzE1NDM3MzI2OTJfMDIz/screen-0.jpg?h=355&fakeurl=1&type=.jpg)
+
+Check it out on APK Pure : https://apkpure.com/logicolour-colour-driven-circuit-logic/processing.test.logicolor_android
